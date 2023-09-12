@@ -21,21 +21,21 @@ flutter:
         default_package: camera_web
 
 dependencies:
-  camera_android: ^0.10.7
-  camera_avfoundation: ^0.9.13
-  camera_platform_interface: ^2.5.0
-  camera_web: ^0.3.1
+  camera_android: ^0.10.8+8
+  camera_avfoundation: ^0.9.13+4
+  camera_platform_interface: ^2.5.2
+  camera_web: ^0.3.2+3
   flutter:
     sdk: flutter
-  flutter_plugin_android_lifecycle: ^2.0.2
-  quiver: ^3.0.0
+  flutter_plugin_android_lifecycle: ^2.0.16
+  quiver: ^3.2.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mockito: 5.4.1
-  plugin_platform_interface: ^2.0.0
-  video_player: ^2.0.0
+  mockito: ^5.4.2
+  plugin_platform_interface: ^2.1.6
+  video_player: ^2.7.1
 
 topics:
   - camera
